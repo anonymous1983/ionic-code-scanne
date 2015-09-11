@@ -1,1 +1,3 @@
-# ionic-code-scanne
+Ionic Poke Code Scanne
+======================
+
