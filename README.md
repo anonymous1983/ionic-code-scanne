@@ -1,3 +1,0 @@
-Ionic Poke Code Scanne
-======================
-
